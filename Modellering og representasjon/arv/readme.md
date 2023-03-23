@@ -2,7 +2,7 @@
 
 Arv tillater en klasse å arve egenskaper og metoder fra en/flere annen/andre klasse(r). Klasser deles inn i superklasser og subklasser, hvor subklasser arver egenskaper fra superklassene.
 
-## Eksempler
+## Eksempel
 
 ```python
 
